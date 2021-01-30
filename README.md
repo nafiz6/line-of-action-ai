@@ -1,4 +1,4 @@
-#Line Of Action
+# Line Of Action
 
 Can be played Human vs. Human  OR Human vs. AI
 
