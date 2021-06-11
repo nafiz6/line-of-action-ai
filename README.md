@@ -1,4 +1,6 @@
 # Line Of Action
+AI to play line of action using Adversarial Search with alpha-beta pruning. 
+Several heuristics such as  piece square table, mobility, connectedness, area are used.
 
 Can be played Human vs. Human  OR Human vs. AI
 
